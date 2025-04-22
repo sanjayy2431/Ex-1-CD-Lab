@@ -78,6 +78,7 @@ return 0;
 <br>
 <br>
 <br>
+
 # OUTPUT:
 ![Screenshot 2025-04-22 131520](https://github.com/user-attachments/assets/a53aacf2-1253-4a5c-91ea-9759161b582f)
 
