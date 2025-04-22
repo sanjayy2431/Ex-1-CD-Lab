@@ -84,6 +84,10 @@ return 0;
 
 ![Screenshot 2025-04-22 131548](https://github.com/user-attachments/assets/2972118f-1520-4f42-a181-9bba6a8537ac)
 
+<br>
+<br>
+<br>
+<br>
 
 # RESULT
 ### The program to implement a symbol table is executed and the output is verified.
